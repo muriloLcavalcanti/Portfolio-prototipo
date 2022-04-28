@@ -1,6 +1,6 @@
 # Portfolio-prototipo
 
-Este prótotipo de portfólio é O meu 4º projeto da série "desafios". Ele é a continuação do projeto 3, veja o deploy do projeto 3: https://proj-3-5jp0ki0uh-murilolcavalcanti.vercel.app/
+Este prótotipo de portfólio é o meu 4º projeto da série "desafios". Ele é a continuação do projeto 3, veja o deploy do projeto 3: https://proj-3-5jp0ki0uh-murilolcavalcanti.vercel.app/
 
 <br>
 
