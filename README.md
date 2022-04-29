@@ -15,3 +15,7 @@ Objetivos de aprendizado:
   - iteratividade com JavaScript;
   - a ferramenta de versionamento (git);
   - organização e apresentação do repositório.
+
+
+
+TESTE
