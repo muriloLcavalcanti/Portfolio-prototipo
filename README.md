@@ -16,6 +16,16 @@ Objetivos de aprendizado:
   - a ferramenta de versionamento (git);
   - organização e apresentação do repositório.
 
+---
+# Projeto em estado de hibernação
+
+A versão responsiva para desktop e a versão responsiva mobile foram concluídas com facilidade, porem não consegui unir as duas versões em uma só usando apenas CSS puro.
+
+Determinei que o momento é para aprender tecnologias facilitadores de CSS (bibliotecas e extensões)
+
+Este projeto sera retomado e concluído com alguma ferramenta faciltiadora.
+
+Veja o Deploy da versão Desktop:
+Veja o Deploy da versão Mobile: 
 
 
-TESTE
