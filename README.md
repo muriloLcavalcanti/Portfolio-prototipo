@@ -21,9 +21,7 @@ Objetivos de aprendizado:
 
 A versão responsiva para desktop e a versão responsiva mobile foram concluídas com facilidade, porem não consegui unir as duas versões em uma só usando apenas CSS puro.
 
-Determinei que o momento é para aprender tecnologias facilitadores de CSS (bibliotecas e extensões)
-
-Este projeto sera retomado e concluído com alguma ferramenta faciltiadora.
+Determinei que o momento é para aprender tecnologias facilitadoras do desenvolvimento de CSS (bibliotecas e extensões) para posteriormente retomar esse projeto e concluílo com mais praticidade.
 
 Veja o Deploy da versão Desktop (o display só será exibido a partir da largura de 1024px): https://portfolio-prototipo-desktop.vercel.app/
 
