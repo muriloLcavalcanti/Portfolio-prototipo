@@ -25,7 +25,8 @@ Determinei que o momento é para aprender tecnologias facilitadores de CSS (bibl
 
 Este projeto sera retomado e concluído com alguma ferramenta faciltiadora.
 
-Veja o Deploy da versão Desktop:
-Veja o Deploy da versão Mobile: 
+Veja o Deploy da versão Desktop (o display só será exibido a partir da largura de 1024px): https://portfolio-prototipo-desktop.vercel.app/
+
+Veja o Deploy da versão Mobile (o display só será exibido entre as larguras de 316px e 1024px): https://portfolio-prototipo-mobile.vercel.app/
 
 
